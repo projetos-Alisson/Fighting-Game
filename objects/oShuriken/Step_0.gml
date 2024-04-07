@@ -1,0 +1,33 @@
+/// @description Shuriken rotation
+
+image_angle += 5;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
